@@ -1,0 +1,6 @@
+@ControleABordo.API_HostAddress = http://localhost:5175
+
+GET {{ControleABordo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

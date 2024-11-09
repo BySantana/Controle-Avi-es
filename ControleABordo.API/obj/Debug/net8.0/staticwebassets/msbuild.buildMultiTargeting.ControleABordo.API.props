@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControleABordo.API.props" />
+</Project>
